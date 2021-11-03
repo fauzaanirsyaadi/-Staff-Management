@@ -1,6 +1,9 @@
 # -Staff-Management
 Nama : Muhammad Fauzaan Irsyaadi, Kode Peserta : FSDO001ONL025, Assignment 6
 
+ClientApp adalah folder dari angular App
+
+
 migration
 
 run 
