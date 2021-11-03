@@ -7,6 +7,9 @@ ClientApp adalah folder dari angular App
 migration
 
 run 
-\n npm install
-\n npm install --save @angular/material @angular/cdk @angular/animations
-\n npm install --save @angular/material@8 @angular/cdk@8 @angular/animations@8
+
+npm install
+
+npm install --save @angular/material @angular/cdk @angular/animations
+
+npm install --save @angular/material@8 @angular/cdk@8 @angular/animations@8
