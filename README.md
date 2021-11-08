@@ -1,5 +1,6 @@
 # -Staff-Management
-Nama : Muhammad Fauzaan Irsyaadi, Kode Peserta : FSDO001ONL025, Assignment 6
+
+Kode Peserta : FSDO001ONL025, Assignment 6
 
 ClientApp adalah folder dari angular App
 
